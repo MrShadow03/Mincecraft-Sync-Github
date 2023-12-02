@@ -2595,25 +2595,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2023-12-01 00:18:52 +0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2023-12-01 00:16:24 +0600"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2023-12-01 00:18:52 +0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-11-30 23:43:59 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2023-11-30 23:43:59 +0600"
     },
@@ -2625,9 +2613,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_rail": "2023-11-30 23:43:59 +0600"
+      "has_ink_sac": "2023-12-01 00:16:24 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-12-01 00:18:52 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-12-01 00:18:52 +0600"
     },
     "done": true
   },
